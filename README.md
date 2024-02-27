@@ -1,3 +1,3 @@
 # Thanuja-ui-ux
-about ui ux
- learnt how to log in into github 
+learnt about logo types,photoshop,ai adobe illustrator
+
