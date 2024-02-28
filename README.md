@@ -1,3 +1,4 @@
 # Thanuja-ui-ux
-learnt about logo types,photoshop,ai adobe illustrator
-
+day-3
+1) figma installation
+2) loging in to figma
