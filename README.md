@@ -1,3 +1,3 @@
 # Thanuja-ui-ux
-day-6
-learnt about colour theory and colour wheel
+day-7
+colour theory and colour combination
