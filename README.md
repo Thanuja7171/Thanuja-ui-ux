@@ -1,3 +1,3 @@
 # Thanuja-ui-ux
-day-7
-colour theory and colour combination
+day-8
+learnt how to design application pages
