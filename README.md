@@ -1,3 +1,3 @@
 # Thanuja-ui-ux
-day-8
-learnt how to design application pages
+day-9
+prototype and animation
