@@ -1,3 +1,3 @@
 # Thanuja-ui-ux
-day-10
-prototype animation and slides ( vertically)
+day-11
+discussion about netflix recreation
