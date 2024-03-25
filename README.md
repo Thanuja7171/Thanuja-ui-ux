@@ -1,3 +1,3 @@
 # Thanuja-ui-ux
-day-11
-discussion about netflix recreation
+day-13
+discussed about instructions
